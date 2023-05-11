@@ -1,3 +1,4 @@
 # Project
- This repo for our projectImage Upscaler
+##Skin Cancer Detection Using Machine Learning
+
 
