@@ -19,7 +19,7 @@ This project aims to detect skin cancer using machine learning techniques. The p
 
 3. Run the local server:
    ```
-   cd Scd/local-server
+   cd App/local-server
    node server.js
    ```
 
