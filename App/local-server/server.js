@@ -9,6 +9,6 @@ app.use(function(req, res, next){
 
 app.use(express.static("../static"));
 
-app.listen(81 , function(){
-    console.log("Serving static on 81")
+app.listen(3000 , function(){
+    console.log("Serving static on http://localhost:3000/ ")
 });
